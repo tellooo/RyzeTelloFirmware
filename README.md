@@ -32,6 +32,10 @@ The CPU in the Intel Movidius Myriad 2 VPU is a SPARC microprocessor core that r
 https://github.com/movidius/ncsdk/blob/master/docs/ncs1arch.md
 
 ```
+Myriad 2 MA2x5x Vision Processor Transforming Devices Through Ultra Low-Power Machine Vision
+```
+https://uploads.movidius.com/1463156689-2016-04-29_VPU_ProductBrief.pdf
+```
 Myriad 2 programming paradigms
 ```
 http://eyesofthings.eu/wp-content/uploads/deliverables/EoT_D3.3.pdf
