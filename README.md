@@ -30,6 +30,11 @@ Two RISC CPUs to run the RTOS, firmware, and runtime scheduler
 ```
 https://www.synopsys.com/content/dam/synopsys/company/publications/insight/snps-insight-issue2-2016.pdf
 ```
+SHAVE v2.0 - Microarchitectures - Movidius
+```
+https://en.wikichip.org/wiki/movidius/microarchitectures/shave_v2.0#Execution_Units
+
+```
 The CPU in the Intel Movidius Myriad 2 VPU is a SPARC microprocessor core that runs custom firmware.
 ```
 https://github.com/movidius/ncsdk/blob/master/docs/ncs1arch.md
