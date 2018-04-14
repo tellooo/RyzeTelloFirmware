@@ -60,6 +60,10 @@ Movidius MoviTools and "Partner Applications"
 ```
 https://www.slideshare.net/ISIN_slideshow/20140923movidiusseanmitchell
 ```
+Myriad 2 Full Chip Simulator, bit-accurate and cycleaccurate
+```
+https://uploads.movidius.com/1463156704-2016-04-29_MDK_ProductBrief.pdf
+```
 A full software development environment based on the GNU C/C++ compiler is available for LEON. An instruction set simulator (TSIM) is also available 
 ```
 https://www.design-reuse.com/articles/12145/successful-use-of-an-open-source-processor-in-a-commercial-asic.html
