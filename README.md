@@ -56,6 +56,10 @@ Myriad 2: Application Processor Description
 ```
 http://eyesofthings.eu/wp-content/uploads/deliverables/EoT_D2.3.pdf
 ```
+Movidius MoviTools and "Partner Applications"
+```
+https://www.slideshare.net/ISIN_slideshow/20140923movidiusseanmitchell
+```
 A full software development environment based on the GNU C/C++ compiler is available for LEON. An instruction set simulator (TSIM) is also available 
 ```
 https://www.design-reuse.com/articles/12145/successful-use-of-an-open-source-processor-in-a-commercial-asic.html
