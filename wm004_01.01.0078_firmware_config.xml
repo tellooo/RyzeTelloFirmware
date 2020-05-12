@@ -1,0 +1,9 @@
+<dji>
+    <device id="wm004">
+        <firmware formal="01.01.0078">
+            <release version="01.01.0078" antirollback="0" antirollback_ext="cn:0" enforce="0" enforce_ext="cn:0" enforce_time="2018-01-01T09:39:35+00:00" from="2018/01/01" expire="2019/01/01">
+                <module id="0802" version="01.04.88.01" type="" group="ac" size="7292584" md5="f7148e7f1c66e9163b662998653d0c9f">wm004_0802_v01.04.88.01_20190320.pro.fw.sig</module>
+                </release>
+        </firmware>
+    </device>
+</dji>
